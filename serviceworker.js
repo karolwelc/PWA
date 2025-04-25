@@ -9,7 +9,7 @@ self.addEventListener('install', e => {
           '/manifest.json',
           '/js/app.js',
           '/js/mapa.js',
-          '/js/sos.js'
+          '/js/sos.js',
         ]);
       })
     );
